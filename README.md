@@ -6,13 +6,24 @@ We are going to be building a minimalist version of the [Star Wars Databank](htt
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
 
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+The first step to start coding is cloning the [react boilerplate](https://github.com/4GeeksAcademy/react-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello).
+
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/react-hello`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
 ## 📝 Instructions
 
-1. Start a new project using [4Geeks Academy's React Advanced boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp).
-2. Use bootstrap components, you need **almost** no custom CSS.
-3. Take some time to understand the SWAPI.tech API, this will be our source of information, we will be consuming this API.
-4. Fetch the SWAPI people, vehicles and planets and display them on your application.
-5. Declare a `favorites` array in your central store and allow the user to add or remove favorites.
+1. Use bootstrap components, you need **almost** no custom CSS.
+2. Take some time to understand the SWAPI.tech API, this will be our source of information, we will be consuming this API.
+3. Fetch the SWAPI people, vehicles and planets and display them on your application.
+4. Declare a `favorites` array in your central store and allow the user to add or remove favorites.
 
 #### Building the grid of Characters and Planets
 
