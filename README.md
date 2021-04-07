@@ -14,9 +14,7 @@ The first step to start coding is to clone this [react flux boilerplate](https:/
 
 a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello-webapp) and using the Gitpod extension button in the repository.
 
-b) If you have a Breathecode account you can start a New React FLUX boilerplate (4Geeks Academy students should use this option). 
-
-c) If working locally type the following command from your command line: 
+b) If working locally type the following command from your command line: 
 ```sh
 $ git clone https://github.com/4GeeksAcademy/react-hello-webapp
 ````

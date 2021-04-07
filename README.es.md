@@ -14,9 +14,7 @@ No clones este repositorio. El primer paso para comenzar a codificar es clonar e
 
 a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
 
-b) Si tienes una cuenta en Breathecode puedes comenzar un proyecto nuevo: New React FLUX boilerplate (Los estudiantes de 4Geeks Academy debeen usar esta opción). 
-
-c) Si trabajas localmente, escribe el siguiente comando en tu terminal:
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
  ```sh
  git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
 ````
