@@ -10,11 +10,16 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js+flux boilerplate]https://github.com/4GeeksAcademy/react-hello-webapp) en tu compjutador local o con Gitpod.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+b) Si tienes una cuenta en Breathecode puedes comenzar un proyecto nuevo: New React FLUX boilerplate (Los estudiantes de 4Geeks Academy debeen usar esta opción). 
+
+c) Si trabajas localmente, escribe el siguiente comando en tu terminal:
+ ```sh
+ git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
+````
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
