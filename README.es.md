@@ -1,14 +1,26 @@
 # Starwars Blog
 
-_La fuerza es fuerte con este ejercicio...._
-
-## Objetivo
+_La fuerza es fuerte en este ejercicio...._
 
 Vamos a construir una versión minimalista del [Banco de datos de Star Wars](https://www.starwars.com/databank) con una función React o lista de favoritos.
 
-### Aquí esta un Demo!
+### !Aquí hay un Demo!
 
 ![Starwars Demo](https://github.com/breatheco-de/exercise-starwars-blog-reading-list/blob/master/preview.gif?raw=true)
+
+## 🌱  Cómo iniciar este proyecto
+
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js+flux boilerplate]https://github.com/4GeeksAcademy/react-hello-webapp) en tu compjutador local o con Gitpod.
+
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/react-hello-webapp).
+
+b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
+ ```sh
+ git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
+````
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 
 ## 📝 Instrucciones
 
@@ -37,11 +49,11 @@ Nota: por favor utiliza swapi.tech y no swapi.dev porque la segunda esta dando p
    <img height="100" src="https://raw.githubusercontent.com/nachovz/projects/master/p/javascript/semi-senior/startwars-blog-reading-list/sw_data_details.png" />
 </p>
 
-***Importante***: El SWAPI no proporciona las imágenes, puede usar marcadores de posición o evitar las imágenes por completo. El enfoque de este ejercicio es practicar *fetch*, *router* y *context*; puedes enfocarte en el tema del color y el diseño simple para que se vea bien.
+***Importante***: El SWAPI no proporciona las imágenes, puedes usar marcadores de posición o evitar las imágenes por completo. El enfoque de este ejercicio es practicar *fetch*, *router* y *context*; puedes enfocarte en un tema del color y diseño simple para que se vea bien.
 
-***Importante 2***: no se preocupe si los datos que obtiene de la SWAPI no coinciden con los datos que ve en starwars.com.
+***Importante 2***: no te preocupes si los datos que obtienes de la SWAPI no coinciden con los datos que ves en starwars.com.
 
-Usa toda la información provista por el SWAPI (verifique los documentos y / o las respuestas de json).
+Usa toda la información que entrega la por el SWAPI (verifica los documentos y / o las respuestas de json).
 
 ## Leer más tarde o la funcionalidad de favoritos
 
@@ -50,4 +62,14 @@ Implementa una funcionalidad de lectura posterior, es decir, un botón que permi
 #### Uso de Context
 
 Para asegurarse de que el usuario pueda "guardar" el elemento, debe implementar una acción a la que se pueda acceder desde cualquier lugar dentro de la aplicación.
+
+## 😎 ¿Te sientes seguro?
+
+Las siguientes funciones no son necesarias para la solución final, pero puede desarrollarlas si te sientes lo suficientemente seguro:
+
+- `+ 1` Evita que el sitio web haga Fetch a la API de Startwars nuevamente si se actualiza (puedes usar el almacenamiento local para guardar la tienda en el navegador local).
+- `+ 3` Implementa una barra de búsqueda con "autocompletar" para Personajes y Planetas. Cuando haces clic en autocompletar, debería llevarte a la página Personaje o Planeta.
+
+
+
 
