@@ -10,9 +10,9 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js+flux boilerplate] (https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp) en tu computador local o con Gitpod.
+No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js+flux boilerplate](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp) en tu computador local o con Gitpod.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí] (https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp).
+a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp)
 
 b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
  ```sh
