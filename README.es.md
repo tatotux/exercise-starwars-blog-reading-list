@@ -19,8 +19,11 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
  $ git clone https://github.com/4GeeksAcademy/react-hello-webapp`.
 ````
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
-
+```
+💡 Importante: 
+- Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+- La API SWAPI no provee imagenes, puedes usar https://starwars-visualguide.com/assets/img/ para obtener las imagenes.
+```
 
 ## 📝 Instrucciones
 
